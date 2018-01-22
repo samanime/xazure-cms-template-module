@@ -1,6 +1,6 @@
 {
   "name": "xazure-template-module",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A base template for creating modules for Xazure framework.",
   "main": "dist",
   "scripts": {
